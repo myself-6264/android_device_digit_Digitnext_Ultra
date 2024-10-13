@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/digit/Digitnext_Ultra/device.mk)
 
 PRODUCT_DEVICE := Digitnext_Ultra
-PRODUCT_NAME := omni_Digitnext_Ultra
+PRODUCT_NAME := twrp_Digitnext_Ultra
 PRODUCT_BRAND := Digit
 PRODUCT_MODEL := Digitnext_Ultra
 PRODUCT_MANUFACTURER := digit
